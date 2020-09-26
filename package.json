@@ -1,0 +1,35 @@
+{
+  "name": "stylelint-config-yuanqing",
+  "version": "0.0.0",
+  "description": "An opinionated stylelint configuration",
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "license": "MIT",
+  "author": "Yuan Qing Lim",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yuanqing/stylelint-config-yuanqing.git"
+  },
+  "files": [
+    "stylelint.js"
+  ],
+  "main": "stylelint.js",
+  "scripts": {
+    "prettier": "prettier --config node_modules/eslint-config-yuanqing/prettier.js --write '*.{js,json}'"
+  },
+  "dependencies": {
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-order": "^4.1.0",
+    "stylelint-prettier": "^1.1.2"
+  },
+  "devDependencies": {
+    "eslint-config-yuanqing": "^0.0.3",
+    "prettier": "^2"
+  },
+  "peerDependencies": {
+    "stylelint": "^13"
+  }
+}
