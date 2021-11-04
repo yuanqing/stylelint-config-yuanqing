@@ -21,12 +21,11 @@
   },
   "dependencies": {
     "stylelint-config-prettier": "^9.0.3",
-    "stylelint-config-rational-order": "^0.1.2",
-    "stylelint-order": "^5.0.0",
+    "stylelint-config-idiomatic-order": "^8.1.0",
     "stylelint-prettier": "^1.2.0"
   },
   "devDependencies": {
-    "eslint-config-yuanqing": "^0.0.5",
+    "eslint-config-yuanqing": "^0.0.6",
     "prettier": "^2"
   },
   "peerDependencies": {
