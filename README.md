@@ -1,6 +1,6 @@
 # stylelint-config-yuanqing [![npm Version](https://img.shields.io/npm/v/stylelint-config-yuanqing?cacheSeconds=1800)](https://www.npmjs.com/package/stylelint-config-yuanqing)
 
-> An opinionated [stylelint](https://stylelint.io/) configuration
+> An opinionated [Stylelint](https://stylelint.io/) configuration
 
 ## Features
 
@@ -12,7 +12,8 @@
 Install:
 
 ```
-$ yarn add --dev stylelint-config-yuanqing stylelint@13
+$ npm install --save-dev prettier@2 stylelint@14
+$ npm install --save-dev --save-exact stylelint-config-yuanqing
 ```
 
 Then, update `package.json` as follows:
