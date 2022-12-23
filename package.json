@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-yuanqing",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An opinionated Stylelint configuration",
   "keywords": [
     "stylelint",
