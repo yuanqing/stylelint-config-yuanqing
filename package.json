@@ -17,12 +17,11 @@
   ],
   "main": "./stylelint.js",
   "dependencies": {
-    "stylelint-config-prettier": "9.0.4",
     "stylelint-config-idiomatic-order": "9.0.0",
-    "stylelint-prettier": "2.0.0"
+    "stylelint-prettier": "4.1.0"
   },
   "peerDependencies": {
-    "prettier": ">=2",
-    "stylelint": ">=14"
+    "prettier": ">=3",
+    "stylelint": ">=16"
   }
 }

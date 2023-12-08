@@ -12,7 +12,7 @@
 Install:
 
 ```
-$ npm install --save-dev prettier@2 stylelint@14
+$ npm install --save-dev prettier@3 stylelint@16
 $ npm install --save-dev --save-exact stylelint-config-yuanqing
 ```
 
