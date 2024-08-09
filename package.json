@@ -18,7 +18,7 @@
   "main": "./stylelint.js",
   "dependencies": {
     "stylelint-config-idiomatic-order": "10.0.0",
-    "stylelint-prettier": "4.1.0"
+    "stylelint-prettier": "5.0.2"
   },
   "peerDependencies": {
     "prettier": ">=3",
