@@ -21,7 +21,7 @@
     "stylelint-prettier": "5.0.2"
   },
   "peerDependencies": {
-    "prettier": ">=3",
-    "stylelint": ">=16"
+    "prettier": "^3",
+    "stylelint": "^16"
   }
 }
